@@ -1,6 +1,0 @@
-list1=["john","mary","vianny","kakooza"]
-list1[3]="angella"
-list1.append("happy pipo")
-list2=list1
-list1.remove("john")
-print (list2)

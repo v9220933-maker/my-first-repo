@@ -1,3 +1,0 @@
-dict1={'name':'vian','age':'21','sex':'male'}
-del(dict1)
-print(dict1)
