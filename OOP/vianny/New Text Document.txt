@@ -1,0 +1,13 @@
+operating system
+
+| Type            | Key Use Case            | Example              |
+| --------------- | ----------------------- | -------------------- |
+| Batch OS        | Large data processing   | Early IBM systems    |
+| Time-Sharing OS | Multi-user environments | UNIX, Linux          |
+| Distributed OS  | Networked systems       | Amoeba, Plan 9       |
+| Real-Time OS    | Time-critical systems   | FreeRTOS, VxWorks    |
+| Multi-user OS   | Shared access           | UNIX, Windows Server |
+| Single-user OS  | Personal use            | Windows 10, macOS    |
+| Network OS      | Network management      | Windows Server       |
+| Mobile OS       | Smartphones & tablets   | Android, iOS         |
+| Embedded OS     | IoT and appliances      | Embedded Linux       |
